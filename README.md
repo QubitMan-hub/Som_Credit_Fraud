@@ -1,5 +1,5 @@
 # Som_Credit_Fraud
-This project is an advanced case study that utilizes an unsupervised Machine Learning technique—a **Self-Organizing Map (SOM)**—to detect potential fraud or anomalies in credit card applications. 
+This project is an advanced case study that utilizes an unsupervised Machine Learning technique a **Self-Organizing Map (SOM)**, to detect potential fraud or anomalies in credit card applications. 
 
 By analyzing patterns and relationships across multiple customer features, the SOM maps high-dimensional application data onto a 2D grid. This allows for the visual identification of outliers, which often represent fraudulent applications.
 
